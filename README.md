@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hey there, I'm João Lucas 👋🍍
 
-<!--
-**abacaxiguy/abacaxiguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## I'm working to be a FullStack Developer 💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" class="giphy-embed" allowFullScreen frameBorder="0" src='https://c.tenor.com/QdBZe9kdnfgAAAAC/pineapple-hide.gif'>
+
+- 🌱 I’m currently learning React and TypeScript ⚛️
+- 📫 How to reach me: jlucasoc@hotmail.com 📧
+- ⚡ Fun fact: I'm actually not a <b>pineapple</b> 😝 
+
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=abacaxiguy&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abacaxiguy&layout=compact&theme=radical">
