@@ -4,12 +4,11 @@
 
 ## I'm working to be a FullStack Developer 💪
 
-<img align="right" class="giphy-embed" allowFullScreen frameBorder="0" src='https://c.tenor.com/QdBZe9kdnfgAAAAC/pineapple-hide.gif'>
+<img align="right" class="giphy-embed" allowFullScreen frameBorder="0" src='img/pineapple.gif'>
 
-- 🌱 I’m currently learning React and TypeScript ⚛️
-- 📫 How to reach me: jlucasoc@hotmail.com 📧
-- ⚡ Fun fact: I'm actually not a <b>pineapple</b> 😝 
-
+-   🌱 I’m currently learning React and TypeScript ⚛️
+-   📫 How to reach me: jlucasoc@hotmail.com 📧
+-   ⚡ Fun fact: I'm actually not a <b>pineapple</b> 😝
 
 <br>
 
