@@ -4,7 +4,7 @@
 
 ## I'm working to be a FullStack Developer 💪
 
-<img align="right" class="giphy-embed" allowFullScreen frameBorder="0" src='img/pineapple.gif'>
+<img align="right" class="giphy-embed" src='https://raw.githubusercontent.com/abacaxiguy/abacaxiguy/main/img/pineapple.gif'>
 
 -   🌱 I’m currently learning React and TypeScript ⚛️
 -   📫 How to reach me: jlucasoc@hotmail.com 📧
