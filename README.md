@@ -1,6 +1,9 @@
 # Hey there, I'm João Lucas 👋🍍
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abacaxiguy&theme=radical)
+
 <br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abacaxiguy&theme=radical)
+
 
 ## I'm working to be a FullStack Developer 💪
 
