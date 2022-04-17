@@ -9,9 +9,9 @@
 
 <img align="right" class="giphy-embed" src='https://raw.githubusercontent.com/abacaxiguy/abacaxiguy/main/img/pineapple.gif'>
 
--   🌱 I’m currently learning React and TypeScript ⚛️
--   📫 How to reach me: jlucasoc@hotmail.com 📧
--   ⚡ Fun fact: I'm actually not a <b>pineapple</b> 😝
+-   #### 🌱 I’m currently learning React and TypeScript ⚛️
+-   #### 📫 How to reach me: jlucasoc@hotmail.com 📧
+-   #### ⚡ Fun fact: I'm actually not a <b>pineapple</b> 😝
 
 <br>
 
