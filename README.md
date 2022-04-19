@@ -3,8 +3,8 @@
 <br>
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=abacaxiguy&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" width="42%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abacaxiguy&theme=radical" width="57%">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=abacaxiguy&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" width="41.5%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abacaxiguy&theme=radical" width="57.7%">
 </div>
 
 
