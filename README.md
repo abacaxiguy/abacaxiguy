@@ -25,4 +25,4 @@
 
 ![snake svg](https://github.com/abacaxiguy/abacaxiguy/blob/output/github-contribution-grid-snake.svg)
 
-<br>
+![](https://hit.yhype.me/github/profile?user_id=62774465)
