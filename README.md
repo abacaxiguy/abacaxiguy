@@ -1,5 +1,4 @@
 # Hey there, I'm João Lucas 👋🍍
-
 <br>
 
 <div align="center">
@@ -20,6 +19,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=abacaxiguy&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abacaxiguy&layout=compact&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=abacaxiguy&color=FFB900)
 
 <hr>
 
