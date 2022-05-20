@@ -23,12 +23,9 @@
 <br>
 <br>
 
-<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=abacaxiguy&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abacaxiguy&layout=compact&theme=radical">
 
-  ![](https://github-readme-stats.vercel.app/api?username=abacaxiguy&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-  <img height="195px" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abacaxiguy&layout=compact&theme=radical">
- 
-</div>
 
 ![](https://komarev.com/ghpvc/?username=abacaxiguy&color=FFB900)
 
