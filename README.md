@@ -1,4 +1,9 @@
 # Hey there, I'm João Lucas 👋🍍
+
+<div align="center">
+  <img src='https://raw.githubusercontent.com/abacaxiguy/abacaxiguy/main/img/pineapple.gif' width="75%">
+</div>
+
 <br>
 
 <div align="center">
@@ -9,18 +14,21 @@
 
 ## I'm working to be a FullStack Developer 💪
 
-<p width="20%">  
-  <img align="right" width="20%" src='https://raw.githubusercontent.com/abacaxiguy/abacaxiguy/main/img/pineapple.gif'>
-</p>
+<br>
 
 #### 🌱 I’m currently learning React and TypeScript ⚛️
 #### 📫 How to reach me: jlucasoc@hotmail.com 📧
 #### ⚡ Fun fact: I'm actually not a <b>pineapple</b> 😝
 
 <br>
+<br>
 
-![](https://github-readme-stats.vercel.app/api?username=abacaxiguy&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abacaxiguy&layout=compact&theme=radical)
+<div align="center">
+
+  ![](https://github-readme-stats.vercel.app/api?username=abacaxiguy&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+  <img height="195px" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abacaxiguy&layout=compact&theme=radical">
+ 
+</div>
 
 ![](https://komarev.com/ghpvc/?username=abacaxiguy&color=FFB900)
 
