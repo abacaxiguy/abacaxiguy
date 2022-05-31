@@ -7,8 +7,8 @@
 <br>
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=abacaxiguy&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" width="41%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abacaxiguy&theme=radical" width="56.9%">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=abacaxiguy&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" width="400em">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abacaxiguy&theme=radical" width="556em">
 </div>
 
 
@@ -23,8 +23,10 @@
 <br>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=abacaxiguy&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abacaxiguy&layout=compact&theme=radical">
+<div align="center">
+  <img width="400em" height="195px" src="https://github-readme-stats.vercel.app/api?username=abacaxiguy&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+  <img width="400em" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abacaxiguy&layout=compact&theme=radical">
+</div>
 
 
 ![](https://komarev.com/ghpvc/?username=abacaxiguy&color=FFB900)
