@@ -15,7 +15,7 @@
 
 <br>
 
-#### 🌱 I’m currently learning React and TypeScript ⚛️
+#### 🌱 I’m currently learning more about Django Rest Framework 🐍
 
 #### 📫 How to reach me: jlucasoc@hotmail.com 📧
 
