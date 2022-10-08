@@ -13,13 +13,10 @@
 
 ## I'm working to be a FullStack Developer 💪
 
-<br>
-
-#### 🌱 I’m currently learning more about Django Rest Framework 🐍
-
-#### 📫 How to reach me: jlucasoc@hotmail.com 📧
-
-#### ⚡ Fun fact: I'm actually not a <b>pineapple</b> 😝
+- 👨‍🏭 I'm working as a back-end developer with Django Rest Framework 🐍
+- 🚧 I’m currently learning about Three.js 🧊 and C/C++ 🎒
+- 📫 How to reach me: jlucasoc@hotmail.com 📧
+- ⚡ Fun fact: I'm actually not a <i>pineapple</i> 😝
 
 <br>
 <br>
