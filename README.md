@@ -1,7 +1,7 @@
 # Hey there, I'm João Lucas 👋🍍
 
 <div align="center">
-  <a href="http://abacaxiguy.me">
+  <a href="http://abacaxiguy.me" target="_blank">
     <img src="./img/portfolio-card-v1.gif" width="688px">
   </a>
 </div>
