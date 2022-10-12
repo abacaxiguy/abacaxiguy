@@ -1,7 +1,9 @@
 # Hey there, I'm João Lucas 👋🍍
 
 <div align="center">
-  <img src='https://raw.githubusercontent.com/abacaxiguy/abacaxiguy/main/img/pineapple.gif' width="150px">
+  <a href="http://abacaxiguy.me">
+    <img src="./img/portfolio-card-v1.gif" width="688px">
+  </a>
 </div>
 
 <br>
