@@ -16,7 +16,7 @@
 ## I'm working to be a FullStack Developer 💪
 
 - 👨‍🏭 I'm working as a back-end developer with Django 🐍
-- 🚧 I’m currently learning about Three.js 🧊 and C/C++ 🎒
+- 🚧 I’m currently learning about Three.js 🧊, Next.js ⚛ and C/C++ 🎒
 - 📫 How to reach me: jlucasoc@hotmail.com 📧
 - ⚡ Fun fact: I'm actually not a <i>pineapple</i> 😝
 
