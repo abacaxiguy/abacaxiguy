@@ -4,8 +4,6 @@
   <a href="http://abacaxiguy.me" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abacaxiguy/abacaxiguy/blob/main/img/portfolio-card-dark.gif">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/abacaxiguy/abacaxiguy/blob/main/img/portfolio-card-light.gif">
-      <img alt="Portfolio Card Dark" src="https://github.com/abacaxiguy/abacaxiguy/blob/main/img/portfolio-card-dark.gif">
       <img alt="Portfolio Card Light" src="https://github.com/abacaxiguy/abacaxiguy/blob/main/img/portfolio-card-light.gif">
     </picture>
   </a>
