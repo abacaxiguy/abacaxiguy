@@ -32,6 +32,7 @@
 
 <hr>
 
-![snake svg](https://github.com/abacaxiguy/abacaxiguy/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://github.com/abacaxiguy/abacaxiguy/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/abacaxiguy/abacaxiguy/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
 ![](https://hit.yhype.me/github/profile?user_id=62774465)
