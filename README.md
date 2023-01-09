@@ -3,8 +3,8 @@
 <div align="center">
   <a href="http://abacaxiguy.me" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abacaxiguy/abacaxiguy/blob/main/img/portfolio-card-dark.gif">
-      <img alt="Portfolio Card Light" src="https://github.com/abacaxiguy/abacaxiguy/blob/main/img/portfolio-card-light.gif">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/abacaxiguy/abacaxiguy/blob/main/img/portfolio-card-light.gif">
+      <img alt="Portfolio Card" src="https://github.com/abacaxiguy/abacaxiguy/blob/main/img/portfolio-card-dark.gif">
     </picture>
   </a>
 </div>
@@ -36,10 +36,8 @@
 <hr>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abacaxiguy/abacaxiguy/blob/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/abacaxiguy/abacaxiguy/blob/output/github-snake.svg">
     <img alt="Github Snake Dark" src="https://github.com/abacaxiguy/abacaxiguy/blob/output/github-snake-dark.svg">
-    <img alt="Github Snake Light" src="https://github.com/abacaxiguy/abacaxiguy/blob/output/github-snake.svg">
 </picture>
 
 ![](https://hit.yhype.me/github/profile?user_id=62774465)
