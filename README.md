@@ -27,8 +27,8 @@
 <br>
 
 <div align="center">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=abacaxiguy&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abacaxiguy&layout=compact&theme=radical">
+  <img width="420em" src="https://github-readme-stats.vercel.app/api?username=abacaxiguy&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+  <img width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abacaxiguy&layout=compact&theme=radical">
 </div>
 
 <br>
