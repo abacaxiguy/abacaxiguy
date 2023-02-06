@@ -19,7 +19,7 @@
 ## I'm working to be a FullStack Developer 💪
 
 - 👨‍🏭 I'm working as a back-end developer with Django 🐍
-- 🚧 I’m currently learning about Three.js 🧊, Next.js ⚛ and C/C++ 🎒
+- 🚧 I’m currently learning more about Django Rest Framework 🛠, Next.js ⚛ and C/C++ 🎒
 - 📫 How to reach me: jlucasoc@hotmail.com 📧
 - ⚡ Fun fact: I'm actually not a <i>pineapple</i> 😝
 
@@ -27,11 +27,16 @@
 <br>
 
 <div align="center">
-  <img width="400em" height="195px" src="https://github-readme-stats.vercel.app/api?username=abacaxiguy&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=abacaxiguy&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abacaxiguy&layout=compact&theme=radical">
 </div>
 
-![](https://komarev.com/ghpvc/?username=abacaxiguy&color=FFB900)
+<br>
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abacaxiguy&color=FFB900">
+</div>
 
 <hr>
 
