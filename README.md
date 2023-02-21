@@ -41,46 +41,49 @@
 <hr>
 
 <details>
-  <summary><h2>My Projects 📚</h2></summary>
-    <div>
-      <h2>🧡 Let me Ask</h2>
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white">
-      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
+  <summary><h2>Tap to see my projects! 📚</h2></summary>
+    <div align="center">
+      <h2>📣 Let me Ask 🧡</h2>
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=333">
+      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=333">
       <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      <br><br>
+      <div>Let me Ask is a project developed during the NLW Together event, which is a platform for creating Q&A rooms. It uses Firebase for authentication and database, and React with TypeScript for the front-end.</div>
       <br>
       <a href="https://github.com/abacaxiguy/letmeask">
         <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=abacaxiguy&repo=letmeask&theme=radical&show_owner=true">
       </a>
       <br><br>
-      <p>Let me Ask is a project developed during the NLW Together event, which is a platform for creating Q&A rooms. It uses Firebase for authentication and database, and React with TypeScript for the front-end.</p>
       <img width="800px" src="https://github.com/abacaxiguy/letmeask/raw/main/img/showcase.gif">
     </div>
     <hr>
-    <div align="right">
-      <h2>🧡 Let me Ask</h2>
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white">
-      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
+    <div align="center">
+      <h2>📣 Let me Ask 🧡</h2>
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=333">
+      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=333">
       <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      <br><br>
+      <div>Let me Ask is a project developed during the NLW Together event, which is a platform for creating Q&A rooms. It uses Firebase for authentication and database, and React with TypeScript for the front-end.</div>
       <br>
       <a href="https://github.com/abacaxiguy/letmeask">
         <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=abacaxiguy&repo=letmeask&theme=radical&show_owner=true">
       </a>
       <br><br>
-      <p>Let me Ask is a project developed during the NLW Together event, which is a platform for creating Q&A rooms. It uses Firebase for authentication and database, and React with TypeScript for the front-end.</p>
       <img width="800px" src="https://github.com/abacaxiguy/letmeask/raw/main/img/showcase.gif">
     </div>
     <hr>
-    <div>
-      <h2>🧡 Let me Ask</h2>
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white">
-      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
+    <div align="center">
+      <h2>📣 Let me Ask 🧡</h2>
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=333">
+      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=333">
       <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      <br><br>
+      <div>Let me Ask is a project developed during the NLW Together event, which is a platform for creating Q&A rooms. It uses Firebase for authentication and database, and React with TypeScript for the front-end.</div>
       <br>
       <a href="https://github.com/abacaxiguy/letmeask">
         <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=abacaxiguy&repo=letmeask&theme=radical&show_owner=true">
       </a>
       <br><br>
-      <p>Let me Ask is a project developed during the NLW Together event, which is a platform for creating Q&A rooms. It uses Firebase for authentication and database, and React with TypeScript for the front-end.</p>
       <img width="800px" src="https://github.com/abacaxiguy/letmeask/raw/main/img/showcase.gif">
     </div>
   <br>
