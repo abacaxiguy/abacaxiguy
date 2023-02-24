@@ -54,38 +54,42 @@
         <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=abacaxiguy&repo=letmeask&theme=radical&show_owner=true">
       </a>
       <br><br>
-      <img width="800px" src="https://github.com/abacaxiguy/letmeask/raw/main/img/showcase.gif">
+      <img width="800px" src="https://github.com/abacaxiguy/letmeask/blob/main/img/showcase.gif">
     </div>
     <hr>
     <div align="center">
-      <h2>📣 Let me Ask 🧡</h2>
+      <h2>🐶 Dogs 🐶</h2>
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=333">
-      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=333">
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
+      <img src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white">
       <br><br>
-      <div>Let me Ask is a project developed during the NLW Together event, which is a platform for creating Q&A rooms. It uses Firebase for authentication and database, and React with TypeScript for the front-end.</div>
+      <div>Dogs is an application developed with React, which is a platform for sharing photos of dogs. It uses the Dogs API (currently down), which I also created from scratch, using Express and Multer, to fetch the images and manage the data from the user.</div>
       <br>
-      <a href="https://github.com/abacaxiguy/letmeask">
-        <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=abacaxiguy&repo=letmeask&theme=radical&show_owner=true">
+      <a href="https://github.com/abacaxiguy/dogs">
+        <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=abacaxiguy&repo=dogs&theme=radical&show_owner=true">
+      </a>
+      <a href="https://github.com/abacaxiguy/dogs_api">
+        <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=abacaxiguy&repo=dogs_api&theme=radical&show_owner=true">
       </a>
       <br><br>
-      <img width="800px" src="https://github.com/abacaxiguy/letmeask/raw/main/img/showcase.gif">
+      <img width="800px" src="https://github.com/abacaxiguy/dogs/blob/master/img/showcase.gif">
     </div>
     <hr>
     <div align="center">
-      <h2>📣 Let me Ask 🧡</h2>
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=333">
-      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=333">
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      <h2>🛒 E-commerce Mr Robot 👨‍💻</h2>
+      <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white">
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
       <br><br>
-      <div>Let me Ask is a project developed during the NLW Together event, which is a platform for creating Q&A rooms. It uses Firebase for authentication and database, and React with TypeScript for the front-end.</div>
+      <div>E-commerce Mr Robot is an e-commerce project developed with Django, which is a fictional store that sells products related to the Mr Robot series. It implements various django features, such as authentication, admin panel, models, views, forms, etc.</div>
       <br>
-      <a href="https://github.com/abacaxiguy/letmeask">
-        <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=abacaxiguy&repo=letmeask&theme=radical&show_owner=true">
+      <a href="https://github.com/abacaxiguy/ecommerce-mr-robot">
+        <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=abacaxiguy&repo=ecommerce-mr-robot&theme=radical&show_owner=true">
       </a>
       <br><br>
-      <img width="800px" src="https://github.com/abacaxiguy/letmeask/raw/main/img/showcase.gif">
+      <img width="800px" src="https://github.com/abacaxiguy/ecommerce-mr-robot/blob/master/screenshots/showcase.gif">
     </div>
+    <br>
+    <h2 align="center">🔽 and many more! 🔽</h2>
   <br>
 </details>
 
