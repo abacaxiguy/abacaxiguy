@@ -18,8 +18,7 @@
 
 ## I'm working to be a FullStack Developer 💪
 
-<!-- - 👨‍🏭 I'm working as a back-end developer with Django 🐍 -->
-- 🚧 I’m currently learning more about Django Rest Framework 🛠, Next.js ⚛ and R 📊
+- 🚧 I’m currently learning more about Django Rest Framework 🐍, Next.js ⚛ and R 📊
 - 📫 How to reach me: jlucasoc@hotmail.com 📧
 - ⚡ Fun fact: I'm actually not a <i>pineapple</i> 😝
 
@@ -95,9 +94,11 @@
 
 <hr>
 
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abacaxiguy/abacaxiguy/blob/output/github-snake.svg">
-    <img alt="Github Snake Dark" src="https://github.com/abacaxiguy/abacaxiguy/blob/output/github-snake-dark.svg">
-</picture>
+<div align="center">
+  <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/abacaxiguy/abacaxiguy/blob/output/github-snake.svg">
+      <img alt="Github Snake Dark" src="https://github.com/abacaxiguy/abacaxiguy/blob/output/github-snake-dark.svg">
+  </picture>
+</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=62774465)
