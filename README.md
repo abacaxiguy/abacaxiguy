@@ -42,7 +42,7 @@
 <details>
   <summary>
     <h2>Tap to see my projects! </h2>
-    <img src="./img/pointing-hand.gif" width="50px">
+    <a href="#tap-to-see-my-projects-"><img src="./img/pointing-hand.gif" width="50px"></a>
   </summary>
     <div align="center">
       <h2>📣 Let me Ask 🧡</h2>
