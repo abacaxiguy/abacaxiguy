@@ -40,7 +40,10 @@
 <hr>
 
 <details>
-  <summary><h2>Tap to see my projects! 📚</h2></summary>
+  <summary>
+    <h2>Tap to see my projects! </h2>
+    <img src="./img/pointing-hand.gif" width="50px">
+  </summary>
     <div align="center">
       <h2>📣 Let me Ask 🧡</h2>
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=333">
