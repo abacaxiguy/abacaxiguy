@@ -11,10 +11,6 @@
 
 <br>
 
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=abacaxiguy&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" width="288px">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abacaxiguy&theme=radical" width="400px">
-</div>
 
 ## I'm working to be a FullStack Developer 💪
 
@@ -26,8 +22,9 @@
 <br>
 
 <div align="center">
-  <img width="420em" src="https://github-readme-stats.vercel.app/api?username=abacaxiguy&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-  <img width="319em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abacaxiguy&layout=compact&theme=radical&hide=php,yacc&langs_count=6">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=abacaxiguy&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abacaxiguy&layout=compact&theme=radical&hide=php,yacc&langs_count=6&hide_border=true" height="160px">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abacaxiguy&theme=radical" height="200px">
 </div>
 
 <br>
