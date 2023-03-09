@@ -42,7 +42,7 @@
     <a href="#tap-to-see-my-projects-"><img src="./img/pointing-hand.gif" width="50px"></a>
   </summary>
     <div align="center">
-      <h2>📣 Let me Ask 🧡</h2>
+      <h1>📣 Let me Ask 🧡</h1>
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=333">
       <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=333">
       <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
@@ -57,7 +57,7 @@
     </div>
     <hr>
     <div align="center">
-      <h2>🐶 Dogs 🐶</h2>
+      <h1>🐶 Dogs 🐶</h1>
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=333">
       <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
       <img src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white">
@@ -75,7 +75,7 @@
     </div>
     <hr>
     <div align="center">
-      <h2>🛒 E-commerce Mr Robot 👨‍💻</h2>
+      <h1>🛒 E-commerce Mr Robot 👨‍💻</h1>
       <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white">
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
       <br><br>
