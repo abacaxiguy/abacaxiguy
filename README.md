@@ -16,7 +16,7 @@
 
 ## I'm working to be a FullStack Developer 💪
 
-- 🚧 I’m currently learning more about **Django Rest Framework 🐍**, **Next.js ⚛** and **R 📊**
+- 🚧 I’m currently learning more about **Linux 🐧**, **Next.js ⚛** and **R 📊**
 - 📫 How to reach me: jlucasoc@hotmail.com 📧
 - ⚡ Fun fact: I'm actually not a <i>pineapple</i> 😝
 
