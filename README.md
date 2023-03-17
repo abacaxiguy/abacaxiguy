@@ -8,7 +8,7 @@
     </picture>
   </a>
 
-  <h3>🚧 (WIP) 🚧</h3>
+  <h3>🚧 (coming soon...) 🚧</h3>
 </div>
 
 <br>
