@@ -38,7 +38,7 @@
 
 <hr>
 
-<details>
+<details align="center">
   <summary>
     <h2>Tap to see my projects! </h2>
     <a href="#tap-to-see-my-projects-"><img src="./img/pointing-hand.gif" width="50px"></a>
@@ -93,14 +93,5 @@
     <h2 align="center">🔽 and many more! 🔽</h2>
   <br>
 </details>
-
-<hr>
-
-<div align="center">
-  <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/abacaxiguy/abacaxiguy/blob/output/github-snake.svg">
-      <img alt="Github Snake Dark" src="https://github.com/abacaxiguy/abacaxiguy/blob/output/github-snake-dark.svg">
-  </picture>
-</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=62774465)
