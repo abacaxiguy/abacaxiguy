@@ -13,12 +13,11 @@
 
 <br>
 
-
 ## I'm working to be a FullStack Developer 💪
 
-- 🚧 I’m currently learning more about **Linux 🐧**, **Next.js ⚛** and **R 📊**
-- 📫 How to reach me: jlucasoc@hotmail.com 📧
-- ⚡ Fun fact: I'm actually not a <i>pineapple</i> 😝
+-   🚧 I’m currently learning more about **Linux 🐧**, **Next.js ⚛** and **R 📊**
+-   📫 How to reach me: jlucasoc@hotmail.com 📧
+-   ⚡ Fun fact: I'm actually not a <i>pineapple</i> 😝
 
 <br>
 <br>
@@ -88,6 +87,21 @@
       </a>
       <br><br>
       <img width="800px" src="https://github.com/abacaxiguy/ecommerce-mr-robot/blob/master/screenshots/showcase.gif">
+    </div>
+    <hr>
+    <div align="center">
+      <h1>🎶 Spotify clone 🌊</h1>
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+      <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      <br><br>
+      <div>A Spotify clone made with Next.js and Tailwind CSS. My first time using both of them to replicate the Spotify's UI, specifically replicating my spotify, including my playlists and my favorite songs. It may become a full-fledged Spotify clone in the future.</div>
+      <br>
+      <a href="https://github.com/abacaxiguy/spotify-clone">
+        <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=abacaxiguy&repo=ecommerce-mr-robot&theme=radical&show_owner=true">
+      </a>
+      <br><br>
+      <img width="800px" src="https://github.com/abacaxiguy/spotify-clone/blob/main/img/preview.gif">
     </div>
     <br>
     <h2 align="center">🔽 and many more! 🔽</h2>
