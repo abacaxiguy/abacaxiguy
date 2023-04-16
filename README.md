@@ -98,7 +98,7 @@
       <div>A Spotify clone made with Next.js and Tailwind CSS. My first time using both of them to replicate the Spotify's UI, specifically replicating my spotify, including my playlists and my favorite songs. It may become a full-fledged Spotify clone in the future.</div>
       <br>
       <a href="https://github.com/abacaxiguy/spotify-clone">
-        <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=abacaxiguy&repo=spotify-clonet&theme=radical&show_owner=true">
+        <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=abacaxiguy&repo=spotify-clone&theme=radical&show_owner=true">
       </a>
       <br><br>
       <img width="800px" src="https://github.com/abacaxiguy/spotify-clone/blob/main/img/preview.gif">
