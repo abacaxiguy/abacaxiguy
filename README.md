@@ -76,20 +76,6 @@
     </div>
     <hr>
     <div align="center">
-      <h1>🛒 E-commerce Mr Robot 👨‍💻</h1>
-      <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white">
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
-      <br><br>
-      <div>E-commerce Mr Robot is an e-commerce project developed with Django, which is a fictional store that sells products related to the Mr Robot series. It implements various django features, such as authentication, admin panel, models, views, forms, etc.</div>
-      <br>
-      <a href="https://github.com/abacaxiguy/ecommerce-mr-robot">
-        <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=abacaxiguy&repo=ecommerce-mr-robot&theme=radical&show_owner=true">
-      </a>
-      <br><br>
-      <img width="800px" src="https://github.com/abacaxiguy/ecommerce-mr-robot/blob/master/screenshots/showcase.gif">
-    </div>
-    <hr>
-    <div align="center">
       <h1>🎶 Spotify clone 🌊</h1>
       <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
       <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
@@ -102,6 +88,20 @@
       </a>
       <br><br>
       <img width="800px" src="https://github.com/abacaxiguy/spotify-clone/blob/main/img/preview.gif">
+    </div>
+    <hr>
+    <div align="center">
+      <h1>🛒 E-commerce Mr Robot 👨‍💻</h1>
+      <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white">
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+      <br><br>
+      <div>E-commerce Mr Robot is an e-commerce project developed with Django, which is a fictional store that sells products related to the Mr Robot series. It implements various django features, such as authentication, admin panel, models, views, forms, etc.</div>
+      <br>
+      <a href="https://github.com/abacaxiguy/ecommerce-mr-robot">
+        <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=abacaxiguy&repo=ecommerce-mr-robot&theme=radical&show_owner=true">
+      </a>
+      <br><br>
+      <img width="800px" src="https://github.com/abacaxiguy/ecommerce-mr-robot/blob/master/screenshots/showcase.gif">
     </div>
     <br>
     <h2 align="center">🔽 and many more! 🔽</h2>
