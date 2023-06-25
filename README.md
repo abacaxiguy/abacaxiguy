@@ -15,7 +15,7 @@
 
 ## I'm working to be a FullStack Developer 💪
 
--   🚧 I’m currently learning more about **Linux 🐧**, **Next.js ⚛** and **Tailwind CSS 🌊**
+-   🚧 I’m currently learning more about **Next.js ⚛**, **Tailwind CSS 🌊** and **C++ 👨‍💻**
 -   📫 How to reach me: jlucasoc@hotmail.com 📧
 -   ⚡ Fun fact: I'm actually not a <i>pineapple</i> 😝
 
