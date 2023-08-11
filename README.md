@@ -37,7 +37,7 @@
 
 <hr>
 
-<details align="center">
+<details align="center" open>
   <summary>
     <h2>Tap to see my projects! </h2>
     <a href="#tap-to-see-my-projects-"><img src="./img/pointing-hand.gif" width="50px"></a>
